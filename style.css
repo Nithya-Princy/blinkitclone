@@ -122,6 +122,12 @@
     width: 85%;
     margin: auto;
 }
+.my-footer h2{
+    width: 85%;
+    margin: auto;
+    text-align: center;
+    text-shadow: 2px 2px 8px #FF0000;
+}
 .row-3{
     text-align: justify;
     color: #666666;
